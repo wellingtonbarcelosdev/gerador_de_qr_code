@@ -1,6 +1,6 @@
 import qrcode
 
-data = 'Don\'t forget to subscribe'
+data = 'https://www.linkedin.com/in/wellingtonbarcelos'
 
 img = qrcode.make(data)
 
