@@ -1,2 +1,2 @@
-# gerador_de_qr_code
- Programa que realiza a elaboração de um código qr code 
+# Gerador de QR code
+Programa que realiza a elaboração de um código QR code 
